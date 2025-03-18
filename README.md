@@ -23,7 +23,7 @@ Passing the **CSCS Test for Health and Safety** demonstrates that you are compet
 Preparation is key to passing the **CSCS Health, Safety, and Environment Test**. Here are some tips to help you succeed:
 
 - **Use official revision materials:** Study the latest CSCS Test revision books and online resources.
-- **Practice with mock tests:** Take practice exams to familiarize yourself with the test format.
+- **Practise with mock tests:** Take practice exams to familiarise yourself with the test format.
 - **Understand key safety concepts:** Learn about hazard prevention, PPE, risk assessments, and emergency procedures.
 
 ## How to Book Your CSCS Test
@@ -45,6 +45,6 @@ Manchester, M12 4AW, UK
 **Contact Person:** Joel Igenoza\
 📞 **Telephone:** 0800 024 2443\
 📱 **Mobile:** 07817 448478\
-✉️ **Email:** [j.igenoza@dynamisenterprises.co.uk](mailto\:j.igenoza@dynamisenterprises.co.uk)\
+✉️ **Email:** [j.igenoza@dynamisenterprises.co.uk](mailto:j.igenoza@dynamisenterprises.co.uk)\
 🌐 **Website:** [https://dynamiseducation.co.uk](https://dynamiseducation.co.uk)
 
